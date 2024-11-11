@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <color name="jioGreen">#009500</color>-->
+    <color name="white">#000</color>
+    <color name="white_shade">#191919</color>
+    <color name="white_transparent">#FFFFFF</color>
+</resources>
